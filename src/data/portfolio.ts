@@ -16,7 +16,7 @@ export const projects: Project[] = [
     description:
       "An appetite-driven restaurant experience with menu highlights, reservations and a warm editorial layout.",
     tech: ["React", "Tailwind CSS", "AI Assisted"],
-    url: "https://zehra-ai-next.lovable.app/",
+    url: "https://zehra-ai-restaurant.lovable.app/",
     github: "https://github.com/",
   },
   {
@@ -43,7 +43,7 @@ export const projects: Project[] = [
     description:
       "Premium property showcase with listing grids, filters and elegant agent-focused storytelling.",
     tech: ["React", "Tailwind CSS", "Responsive"],
-    url: "https://noble-dwelling.lovable.app/",
+    url: "https://luxury-property-pros.lovable.app/",
     github: "https://github.com/",
   },
   {
