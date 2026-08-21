@@ -27,7 +27,7 @@ export function Hero() {
         </Reveal>
 
         <Reveal delay={0.16}>
-          <p className="mx-auto mt-6 max-w-2xl text-center text-base text-muted-foreground sm:text-lg">
+          <p className="font-serif mx-auto mt-6 max-w-2xl text-center text-base italic text-muted-foreground sm:text-lg">
             I create beautiful landing pages, business websites, and AI-powered web applications
             using modern technologies and AI-assisted development.
           </p>

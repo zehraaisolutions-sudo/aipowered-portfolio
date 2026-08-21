@@ -40,8 +40,9 @@
   --color-brand-cyan: var(--brand-cyan);
   --color-glass: var(--glass);
   --color-glass-border: var(--glass-border);
-  --font-display: "Sora", ui-sans-serif, system-ui, sans-serif;
-  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Hind Madurai", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Lora", ui-serif, Georgia, serif;
 }
 
 :root {
